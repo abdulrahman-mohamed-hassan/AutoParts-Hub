@@ -14,7 +14,7 @@ A complete Flutter e-commerce app for car parts with Firebase integration and AI
 - Settings & preferences
 - Modern UI with Material 3
 
-## Setup Instructions
+## Setup Instructions login examples
 user@example.com    password123
 admin@example.com 	admin123
 ### Prerequisites
