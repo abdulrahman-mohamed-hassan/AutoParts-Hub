@@ -1,4 +1,4 @@
-# Tawsel - AutoParts Hub
+# AutoParts Hub
 
 A complete Flutter e-commerce app for car parts with Firebase integration and AI chatbot.
 
