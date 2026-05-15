@@ -21,3 +21,9 @@ admin@example.com 	admin123
 - Flutter SDK installed
 - Android Studio / VS Code
 - Git
+
+## Team
+- Group Project | Team of 4
+
+## My Role
+- Project Lead & Backend Development (Firebase, Firestore, authentication, database design, API)
