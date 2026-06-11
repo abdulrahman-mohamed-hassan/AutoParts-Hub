@@ -17,6 +17,7 @@ A complete Flutter e-commerce app for car parts with Firebase integration and AI
 ## Setup Instructions login examples
 user@example.com    password123
 admin@example.com 	admin123
+
 ### Prerequisites
 - Flutter SDK installed
 - Android Studio / VS Code
